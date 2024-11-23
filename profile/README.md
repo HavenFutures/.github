@@ -29,7 +29,7 @@ Explore some of our key projects that showcase our capabilities:
    An open-source project aimed at [specific goal, e.g., improving developer workflows, facilitating data analysis].  
    [Repository Link](https://github.com/havenfutures/project-name-3)
 
-For a complete list of our projects, visit our [Repositories](https://github.com/orgs/HavenFutures/repositories5).
+For a complete list of our projects, visit our [Repositories](https://github.com/orgs/HavenFutures/repositories).
 
 ---
 
