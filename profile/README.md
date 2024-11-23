@@ -33,15 +33,6 @@ For a complete list of our projects, visit our [Repositories](https://github.com
 
 ---
 
-## Achievements and Milestones
-We are proud to share the following achievements:
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=havenfutures&" alt="havenfutures" /></p>
-
-Our community's support is a testament to our success, and we look forward to continuing our journey together.
-
----
-
 ## Contributing to Our Projects
 We welcome collaboration from developers, designers, and technology enthusiasts worldwide:
 
