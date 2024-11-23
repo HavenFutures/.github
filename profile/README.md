@@ -36,28 +36,12 @@ For a complete list of our projects, visit our [Repositories](https://github.com
 ## Achievements and Milestones
 We are proud to share the following achievements:
 
-<div style="display: flex; justify-content: space-around; align-items: center; padding: 10px; background-color: #f5f5f5; border-radius: 5px;">
-    <div style="text-align: center; margin: 10px;">
-        <h3 style="margin: 5px 0; color: #4A90E2;">⭐ GitHub Stars</h3>
-        <p style="font-size: 18px; font-weight: bold; color: #333;">1,200+</p>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <h3 style="margin: 5px 0; color: #4A90E2;">🍴 Forks</h3>
-        <p style="font-size: 18px; font-weight: bold; color: #333;">300+</p>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <h3 style="margin: 5px 0; color: #4A90E2;">👥 Contributors</h3>
-        <p style="font-size: 18px; font-weight: bold; color: #333;">50+</p>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <h3 style="margin: 5px 0; color: #4A90E2;">✅ Issues Solved</h3>
-        <p style="font-size: 18px; font-weight: bold; color: #333;">500+</p>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <h3 style="margin: 5px 0; color: #4A90E2;">📥 Downloads</h3>
-        <p style="font-size: 18px; font-weight: bold; color: #333;">10,000+</p>
-    </div>
-</div>
+| --------------------- | -------------------------------------------------------------------------------------- | 
+| **GitHub Stars**       | ![GitHub Stars](https://img.shields.io/github/stars/havenfutures?style=flat&color=4C9EEB) | 
+| **Forks**              | ![Forks](https://img.shields.io/github/forks/havenfutures?style=flat&color=4C9EEB)        | 
+| **Contributors**       | ![Contributors](https://img.shields.io/github/contributors/havenfutures?style=flat&color=4C9EEB) | 
+| **Issues Resolved**    | ![Issues Solved](https://img.shields.io/github/issues-closed/havenfutures?style=flat&color=4C9EEB) | 
+| **Downloads**          | ![Downloads](https://img.shields.io/github/downloads/havenfutures?style=flat&color=4C9EEB) | 
 
 Our community's support is a testament to our success, and we look forward to continuing our journey together.
 
