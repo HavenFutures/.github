@@ -36,11 +36,7 @@ For a complete list of our projects, visit our [Repositories](https://github.com
 ## Achievements and Milestones
 We are proud to share the following achievements:
 
-- ![GitHub Stars Icon](https://www.example.com/stars-icon.png) **GitHub Stars**: 500+
-- ![Forks Icon](https://www.example.com/forks-icon.png) **Forked Projects**: 200+
-- ![Contributors Icon](https://www.example.com/contributors-icon.png) **Active Contributors**: 50+
-- ![Issues Resolved Icon](https://www.example.com/issues-resolved-icon.png) **Issues Resolved**: 1,500+
-- ![Downloads Icon](https://www.example.com/downloads-icon.png) **Downloads**: 50,000+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=havenfutures&" alt="havenfutures" /></p>
 
 Our community's support is a testament to our success, and we look forward to continuing our journey together.
 
