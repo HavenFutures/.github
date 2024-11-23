@@ -11,8 +11,6 @@ At Haven Futures, our mission is to:
 
 We are committed to excellence, transparency, and creating impactful technology that shapes the digital landscape.
 
----
-
 ## Key Softwares
 Explore some of our key softwares that showcase our capabilities:
 
@@ -30,8 +28,6 @@ Explore some of our key softwares that showcase our capabilities:
 
 For a complete list of our projects, visit our [Repositories](https://github.com/orgs/HavenFutures/repositories).
 
----
-
 ## Contributing to Our Projects
 We welcome collaboration from developers, designers, and technology enthusiasts worldwide:
 
@@ -42,8 +38,6 @@ We welcome collaboration from developers, designers, and technology enthusiasts 
 
 We are open to all, whether you're a seasoned professional or just starting your journey in software development.
 
----
-
 ## Our Values
 At Haven Futures, we believe in:
 
@@ -53,12 +47,8 @@ At Haven Futures, we believe in:
 
 Our goal is to shape the future of technology through dedication, expertise, and a commitment to excellence.
 
----
-
 ## License
 All our projects are open-source under the [MIT License](https://github.com/HavenFutures/.github/blob/main/LICENSE) unless otherwise specified. You are welcome to use, modify, and share our work.
-
----
 
 ## Join Us
 We are always looking for talented individuals and partners to join our team. If you are passionate about software development and technology, explore our [Career Opportunities](https://www.havenfutures.com/careers) or reach out to us directly.
