@@ -36,12 +36,11 @@ For a complete list of our projects, visit our [Repositories](https://github.com
 ## Achievements and Milestones
 We are proud to share the following achievements:
 
-| --------------------- | -------------------------------------------------------------------------------------- | 
-| **GitHub Stars**       | ![GitHub Stars](https://img.shields.io/github/stars/havenfutures?style=flat&color=4C9EEB) | 
-| **Forks**              | ![Forks](https://img.shields.io/github/forks/havenfutures?style=flat&color=4C9EEB)        | 
-| **Contributors**       | ![Contributors](https://img.shields.io/github/contributors/havenfutures?style=flat&color=4C9EEB) | 
-| **Issues Resolved**    | ![Issues Solved](https://img.shields.io/github/issues-closed/havenfutures?style=flat&color=4C9EEB) | 
-| **Downloads**          | ![Downloads](https://img.shields.io/github/downloads/havenfutures?style=flat&color=4C9EEB) | 
+| **Stars on GitHub**       | ![Stars](https://github.com/havenfutures/stargazers) |
+| **Forked Projects**       | [Check Forks](https://github.com/havenfutures/network/members) |
+| **Active Contributors**   | [View Contributors](https://github.com/havenfutures/graphs/contributors) |
+| **Issues Resolved**       | [View Issues](https://github.com/havenfutures/issues?q=is%3Aissue+is%3Aclosed) |
+| **Downloads**             | [Download Stats](https://github.com/havenfutures/releases) |
 
 Our community's support is a testament to our success, and we look forward to continuing our journey together.
 
