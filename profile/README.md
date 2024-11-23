@@ -1,4 +1,4 @@
-About
+About<br>
 We are a leading software development company dedicated to delivering innovative technology solutions that drive business success and enhance user experiences.
 
 ## Our Mission
