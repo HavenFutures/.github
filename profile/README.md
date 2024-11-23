@@ -15,7 +15,7 @@ We are committed to excellence, transparency, and creating impactful technology 
 ---
 
 ## Key Softwares
-Explore some of our key projects that showcase our capabilities:
+Explore some of our key softwares that showcase our capabilities:
 
 1. **[Software 1]**  
    A comprehensive solution designed to [brief purpose, e.g., optimize business processes, enhance customer engagement].  
