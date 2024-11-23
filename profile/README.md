@@ -37,7 +37,7 @@ For a complete list of our projects, visit our [Repositories](https://github.com
 We are proud to share the following achievements:
 
 ![Stars](https://img.shields.io/github/stars/havenfutures?style=flat-square) 
-![Forks](https://img.shields.io/github/forks/havenfutures?style=flat-square) 
+![Forks](https://img.shields.io/github/forks/havenfutures) 
 ![Contributors](https://img.shields.io/github/contributors/havenfutures?style=flat-square) 
 ![Issues Solved](https://img.shields.io/github/issues-closed/havenfutures?style=flat-square) 
 ![Downloads](https://img.shields.io/github/downloads/havenfutures?style=flat-square)
