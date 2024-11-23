@@ -36,11 +36,11 @@ For a complete list of our projects, visit our [Repositories](https://github.com
 ## Achievements and Milestones
 We are proud to share the following achievements:
 
-| **Stars on GitHub**       | ![Stars](https://github.com/havenfutures/stargazers) |
-| **Forked Projects**       | [Check Forks](https://github.com/havenfutures/network/members) |
-| **Active Contributors**   | [View Contributors](https://github.com/havenfutures/graphs/contributors) |
-| **Issues Resolved**       | [View Issues](https://github.com/havenfutures/issues?q=is%3Aissue+is%3Aclosed) |
-| **Downloads**             | [Download Stats](https://github.com/havenfutures/releases) |
+- ![GitHub Stars Icon](https://www.example.com/stars-icon.png) **GitHub Stars**: 500+
+- ![Forks Icon](https://www.example.com/forks-icon.png) **Forked Projects**: 200+
+- ![Contributors Icon](https://www.example.com/contributors-icon.png) **Active Contributors**: 50+
+- ![Issues Resolved Icon](https://www.example.com/issues-resolved-icon.png) **Issues Resolved**: 1,500+
+- ![Downloads Icon](https://www.example.com/downloads-icon.png) **Downloads**: 50,000+
 
 Our community's support is a testament to our success, and we look forward to continuing our journey together.
 
