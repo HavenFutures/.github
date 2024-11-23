@@ -1,4 +1,4 @@
-<h2 align="center">Hi,👋 I'm Ankush shah</h2>
+# About
 We are a leading software development company dedicated to delivering innovative technology solutions that drive business success and enhance user experiences.
 
 ## Our Mission
