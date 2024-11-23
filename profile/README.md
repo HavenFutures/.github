@@ -29,10 +29,10 @@ For a complete list of our projects, visit our [Repositories](https://github.com
 ## Contributing to Our Projects
 We welcome collaboration from developers, designers, and technology enthusiasts worldwide:
 
-- **Explore Opportunities**: Review open issues and tasks with the [help wanted](https://github.com/havenfutures/issues) label.
-- **Guidelines**: Check out our [Contributing Guide](https://github.com/havenfutures/contributing).
-- **Discussions**: Join the conversation in our [GitHub Discussions](https://github.com/orgs/havenfutures/discussions) forum.
-- **Feedback**: We value your input [report issues](https://github.com/havenfutures/project/issues) or share your suggestions.
+- **Explore Opportunities**: Review open issues and tasks with the help wanted label.
+- **Guidelines**: Check out our Contributing Guide.
+- **Discussions**: Join the conversation in our GitHub Discussions forum.
+- **Feedback**: We value your input report issues or share your suggestions.
 
 We are open to all, whether you're a seasoned professional or just starting your journey in software development.
 
