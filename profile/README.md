@@ -58,18 +58,6 @@ We are open to all, whether you're a seasoned professional or just starting your
 
 ---
 
-## Connect with Us
-Stay informed about our latest projects and engage with our community:
-
-- **Website**: [www.havenfutures.com](https://www.havenfutures.com)
-- **LinkedIn**: [Haven Futures on LinkedIn](https://www.linkedin.com/company/havenfutures)
-- **Twitter**: [@HavenFutures](https://twitter.com/havenfutures)
-- **Discord**: [Join Our Discord](https://discord.com/invite/havenfutures)
-
-For inquiries or support, please contact us at [support@havenfutures.com](mailto:support@havenfutures.com).
-
----
-
 ## Our Values
 At Haven Futures, we believe in:
 
