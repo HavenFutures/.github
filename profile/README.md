@@ -14,18 +14,18 @@ We are committed to excellence, transparency, and creating impactful technology 
 
 ---
 
-## Key Projects
+## Key Softwares
 Explore some of our key projects that showcase our capabilities:
 
-1. **[Project Name 1]**  
+1. **[Software 1]**  
    A comprehensive solution designed to [brief purpose, e.g., optimize business processes, enhance customer engagement].  
    [Repository Link](https://github.com/havenfutures/project-name-1)
 
-2. **[Project Name 2]**  
+2. **[Software 2]**  
    A next-generation platform focused on [specific features, e.g., security, performance, scalability].  
    [Repository Link](https://github.com/havenfutures/project-name-2)
 
-3. **[Project Name 3]**  
+3. **[Software 3]**  
    An open-source project aimed at [specific goal, e.g., improving developer workflows, facilitating data analysis].  
    [Repository Link](https://github.com/havenfutures/project-name-3)
 
