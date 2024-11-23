@@ -1,6 +1,6 @@
 # Welcome to Haven Futures
 
-Welcome to the official GitHub repository of **Haven Futures**. We are a leading software development company dedicated to delivering innovative technology solutions that drive business success and enhance user experiences.
+We are a leading software development company dedicated to delivering innovative technology solutions that drive business success and enhance user experiences.
 
 ---
 
