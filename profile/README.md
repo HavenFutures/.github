@@ -70,7 +70,7 @@ Our goal is to shape the future of technology through dedication, expertise, and
 ---
 
 ## License
-All our projects are open-source under the [MIT License](https://github.com/havenfutures/repository-name/blob/main/LICENSE) unless otherwise specified. You are welcome to use, modify, and share our work.
+All our projects are open-source under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE) unless otherwise specified. You are welcome to use, modify, and share our work.
 
 ---
 
