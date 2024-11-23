@@ -49,7 +49,7 @@ Our community's support is a testament to our success, and we look forward to co
 ## Contributing to Our Projects
 We welcome collaboration from developers, designers, and technology enthusiasts worldwide:
 
-- **Explore Opportunities**: Review open issues and tasks with the ["help wanted"](https://github.com/havenfutures/issues) label.
+- **Explore Opportunities**: Review open issues and tasks with the [help wanted](https://github.com/havenfutures/issues) label.
 - **Guidelines**: Check out our [Contributing Guide](https://github.com/havenfutures/contributing).
 - **Discussions**: Join the conversation in our [GitHub Discussions](https://github.com/orgs/havenfutures/discussions) forum.
 - **Feedback**: We value your input [report issues](https://github.com/havenfutures/project/issues) or share your suggestions.
