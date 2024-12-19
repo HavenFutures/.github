@@ -1,7 +1,7 @@
 # About
 We are a leading software development company dedicated to delivering innovative technology solutions that drive business success and enhance user experiences.
 
-## Our Mission
+### Our Mission
 At Haven Futures, our mission is to:
 - **Innovate**: Lead the industry with cutting-edge technology solutions.
 - **Collaborate**: Build strong partnerships and foster a community-driven environment for developers and contributors.
@@ -9,7 +9,7 @@ At Haven Futures, our mission is to:
 
 We are committed to excellence, transparency, and creating impactful technology that shapes the digital landscape.
 
-## Key Softwares
+### Key Softwares
 Explore some of our key softwares that showcase our capabilities:
 
 1. **Beyond**  
@@ -26,7 +26,7 @@ Explore some of our key softwares that showcase our capabilities:
 
 For a complete list of our projects, visit our [Repositories](https://github.com/orgs/HavenFutures/repositories).
 
-## Contributing to Our Projects
+### Contributing to Our Projects
 We welcome collaboration from developers, designers, and technology enthusiasts worldwide:
 
 - **Explore Opportunities**: Review open issues and tasks with the help wanted label.
@@ -36,7 +36,7 @@ We welcome collaboration from developers, designers, and technology enthusiasts 
 
 We are open to all, whether you're a seasoned professional or just starting your journey in software development.
 
-## Our Values
+### Our Values
 At Haven Futures, we believe in:
 
 - **Innovation**: Embracing new ideas and technologies to stay ahead of the curve.
@@ -45,10 +45,10 @@ At Haven Futures, we believe in:
 
 Our goal is to shape the future of technology through dedication, expertise, and a commitment to excellence.
 
-## License
+### License
 All our projects are open-source under the [MIT License](https://github.com/HavenFutures/.github/blob/main/LICENSE) unless otherwise specified. You are welcome to use, modify, and share our work.
 
-## Join Us
+### Join Us
 We are always looking for talented individuals and partners to join our team. If you are passionate about software development and technology, explore our [Career Opportunities](https://www.havenfutures.com/careers) or reach out to us directly.
 
 Thank you for visiting our GitHub profile. We look forward to collaborating and building the future together.
